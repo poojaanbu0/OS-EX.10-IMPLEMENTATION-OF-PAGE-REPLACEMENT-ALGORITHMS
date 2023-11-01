@@ -152,7 +152,7 @@ printf("\nThe no of page faults is %d",c);
 ```
 
 ## OUTPUT:
-Screenshot (408)
+![273260233-fd48b7fa-1d07-4d29-b48e-58f50d0b439a](https://github.com/poojaanbu0/OS-EX.10-IMPLEMENTATION-OF-PAGE-REPLACEMENT-ALGORITHMS/assets/119390329/5752773a-1c3a-47f1-900b-a583ed047912)
 
 ## RESULT:
 Thus the implementation of LRU page replacement is successfully executed.
@@ -210,7 +210,7 @@ return 0;
 ```
 
 ## OUTPUT:
-Screenshot (409)
+![273262190-89a6554c-05f1-4e3a-b5de-c3f9173da131](https://github.com/poojaanbu0/OS-EX.10-IMPLEMENTATION-OF-PAGE-REPLACEMENT-ALGORITHMS/assets/119390329/db1d0f0c-c4c0-4624-beb6-2be687b74960)
 
 ## RESULT:
 Thus the implementation of OPR page replacement is successfully executed.
