@@ -157,6 +157,21 @@ printf("\nThe no of page faults is %d",c);
 ## RESULT:
 Thus the implementation of LRU page replacement is successfully executed.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # PAGE REPLACEMENT ALGORITHM (OPR)
 ## AIM:
 To write a C program to implement Page Replacement technique using OPR
